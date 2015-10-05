@@ -84,6 +84,4 @@ function showrecentposts2(json) {
 function arlinagrid(a){for(var t=a.feed.entry||[],e=['<div class="recent-gallery">'],i=0;i<t.length;++i){for(var l=t[i],r=l.title.$t,n=l.media$thumbnail?l.media$thumbnail.url:"http://2.bp.blogspot.com/-4fCf53FqYKM/Vccsy7apoZI/AAAAAAAAK4o/XJkv3RkC0pw/s1600/default%2Bimage.png",s=n.replace("s72-c","s"+arlina_thumbs+"-c"),h=l.link||[],c=0;c<h.length&&"alternate"!=h[c].rel;++c);var d=h[c].href,m='<img src="'+s+'" width="'+arlina_thumbs+'" height="'+arlina_thumbs+'"/>',p=arlina_title?'<span class="ptitle">'+r+"</span>":"",g='<a href="'+d+'" target="_blank" title="'+r+'">'+m+p+"</a>";e.push('<div class="gallerytem">',g,"</div>")}e.push("</div>"),document.write(e.join(""))}
 //
 function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
-//
-var newidth=295;var neweight=170;$(".popular-posts .item-thumbnail img").each(function(){var t=$(this).attr("width");$(this).attr("width",newidth),$(this).attr("height",neweight),$(this).attr("src",$(this).attr("src").replace("/s72-c/","/w"+newidth+"-h"+neweight+"-c/"))}),$(".PopularPosts .item-snippet").text(function(t,i){return i.substr(0,70)});
 //]]>
