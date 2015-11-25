@@ -1,10 +1,51 @@
+/*
+var s3slider_config = {
+	url: 'http://www.seocips.com',
+	numPost: 6,
+	labelName: null,
+	monthArray: [
+		"Januari",
+		"Februari",
+		"Maret",
+		"April",
+		"Mei",
+		"Juni",
+		"Juli",
+		"Agustus",
+		"September",
+		"Oktober",
+		"November",
+		"Desember"
+	],
+	noImage: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAA3NCSVQICAjb4U/gAAAADElEQVQImWOor68HAAL+AX7vOF2TAAAAAElFTkSuQmCC',
+	newTabLink: false,
+	containerId: 's3slider-container',
+	slider: {
+		width: 420,
+		height: 270,
+		timeOut: 5000
+	}
+};
+*/
+
 /* ------------------------------------------------------------------------
-http://www.seocips.com/
+
+s3Slider
+
+Developped By: Boban KariÅ¡ik -> http://www.serie3.info/
+CSS Help: MÃ©szÃ¡ros RÃ³bert -> http://www.perspectived.com/
+Version: 1.0
+
+Copyright: Feel free to redistribute the script/modify it, as
+           long as you leave my infos at the top.
+
+Modified by Taufik Nurrohman <http://gplus.to/tovic>
+
 -------------------------------------------------------------------------- */
 (function($) {
 	$.fn.s3Slider = function(vars) {
 		var element = this,
-			timeOut = (vars.timeOut != undefined) ? vars.timeOut : 4000,
+			timeOut = (vars.timeOut != undefined) ? vars.timeOut : 5000,
 			current = null,
 			timeOutFn = null,
 			faderStat = true,
