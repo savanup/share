@@ -25,7 +25,7 @@ h2.date-header,.tagblog,.tagblogdua,.quickedit { display:none; }
 .searchform .searchfield { background:transparent; padding:0 0 0 6px; margin:0; width:200px; height:21px; border:0; outline:none; line-height:23px; }
 .searchform .searchbutton { border:none; font-size:13px; height:21px; width:21px; margin:0; padding:2px; }
 
-/*Menu*/
+/*Menu*/.
 .navwrap { width:100%; margin:0 auto; margin-bottom:15px; padding:0 auto; border-bottom:2px solid #FCA13A; border-top:1px solid #111; }
 #menu { width:100%; background:#333; font-color:#ddd; height:45px; }
 #menu ul,#menu li { margin:0 0; padding:0 0; list-style:none; }
