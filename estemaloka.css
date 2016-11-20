@@ -140,8 +140,8 @@ h3.date-header { text-transform:none; font-family:'Roboto Slab'; font:normal 11p
 .comment_header { float:left; width:67px; }
 .cm_head { position:relative; background:#fff; border-bottom:1px solid #ccc; margin:-10px -10px 0; padding:5px 10px 8px; }
 .comment_avatar { border:1px solid #ccc; margin:0; padding:5px 5px 0; }
-.comment_avatar img { width:55px; height:55px; padding:0; text-align:center; margin:0; background:#fcfcfc url(http://1.bp.blogspot.com/-G0zAVt0juzo/U2zUS3UWlWI/AAAAAAAAAdE/EeaudQNy4Is/s1600/anonymous.jpg) no-repeat; }
-div.comment_avatar img[src=&#39; http://img1.blogblog.com/img/openid16-rounded.gif&#39; ] { content:url(http://1.bp.blogspot.com/-G0zAVt0juzo/U2zUS3UWlWI/AAAAAAAAAdE/EeaudQNy4Is/s1600/anonymous.jpg); }
+.comment_avatar img { width:55px; height:55px; padding:0; text-align:center; margin:0; background:#fcfcfc url(https://1.bp.blogspot.com/-G0zAVt0juzo/U2zUS3UWlWI/AAAAAAAAAdE/EeaudQNy4Is/s1600/anonymous.jpg) no-repeat; }
+div.comment_avatar img[src=&#39; http://img1.blogblog.com/img/openid16-rounded.gif&#39; ] { content:url(https://1.bp.blogspot.com/-G0zAVt0juzo/U2zUS3UWlWI/AAAAAAAAAdE/EeaudQNy4Is/s1600/anonymous.jpg); }
 .comment_name,.comment_name a { font-family:Oswald,Calibri,Sans-Serif; padding:0; margin:0; font-size:14px; }
 .comment_service { margin-top:0; }
 .comment_date { margin:0; color:#d6d5d5; font-size:13px; text-transform:uppercase; display:none; }
@@ -175,7 +175,7 @@ iframe { border:none; overflow:hidden; }
 .footer h2:before { content:"\f07c"; font-family:FontAwesome; color:#FCA13A; margin-right:10px; display:inline-block; line-height:1em; }
 .footer .widget-content { line-height:20px; }
 .footer ul { list-style:none; margin:0; padding:0; }
-.footer li { background:url(http://1.bp.blogspot.com/-Zfpsnavcq5Y/U0ZnXXxXH5I/AAAAAAAAAC0/pwaLr2HfRLk/s9/pause.png) no-repeat 1px 4px; font:normal 12px Arial; text-indent:0; line-height:1.2em; margin:0; padding:2px 0 3px 17px; list-style:none; }
+.footer li { background:url(https://1.bp.blogspot.com/-Zfpsnavcq5Y/U0ZnXXxXH5I/AAAAAAAAAC0/pwaLr2HfRLk/s9/pause.png) no-repeat 1px 4px; font:normal 12px Arial; text-indent:0; line-height:1.2em; margin:0; padding:2px 0 3px 17px; list-style:none; }
 .footer a:link,.footer li a:visited { color:#ccc; text-decoration:none; }
 .footer li a:hover { color:#FCA13A; }
 
@@ -223,13 +223,13 @@ iframe { border:none; overflow:hidden; }
 #loopedSlider .slides div{position:absolute;top:0;width:586px;display:none}
 #loopedSlider .slides div h2.entry-title a{color:#FCA13A;float:left;width:200px;line-height:1.3em;font-weight:400;padding:0 10px;font:22px arial;}
 #loopedSlider .slides div h2.entry-title a:hover{color:#fff}
-#loopedSlider .slides div h2.entry-title{background:url(http://4.bp.blogspot.com/-bp2HK6MdDXg/T5aB6vI5GPI/AAAAAAAAF98/gwCsmb8Fcks/s1600/transparant.png);left:10px;text-align:left;margin-top:0;position:absolute;top:10px;width:220px;min-height:80px;padding:10px 0;border-radius:4px}
+#loopedSlider .slides div h2.entry-title{background:url(https://4.bp.blogspot.com/-bp2HK6MdDXg/T5aB6vI5GPI/AAAAAAAAF98/gwCsmb8Fcks/s1600/transparant.png);left:10px;text-align:left;margin-top:0;position:absolute;top:10px;width:220px;min-height:80px;padding:10px 0;border-radius:4px}
 #loopedSlider .slides div img{width:586px;height:auto;overflow:hidden;margin-left:0}
 #loopedSlider .slides div h2.entry-title a{font-size:30px;line-height:40px;font-weight:400;margin:0 0 15px}
 #loopedSlider ul.pagination{position:absolute;top:238px;list-style-type:none;width:640px;float:left;overflow:hidden;margin:0}
 ul.pagination li{float:left;display:inline;width:77px;height:60px;padding:0 3px 0 8px}
 ul.pagination a{display:block;width:80px;padding-top:0;border:2px solid #222;height:56px;overflow:hidden}
-#loopedSlider .next,#loopedSlider .previous{background:transparent url(http://3.bp.blogspot.com/-mGp_iWwvO5Q/UO2VV8nA6TI/AAAAAAAACUI/dSgvO7zqhC8/s1600/pagination.png) no-repeat 0 0;cursor:pointer;display:block;height:30px;position:absolute;top:258px;width:33px;z-index:999}
+#loopedSlider .next,#loopedSlider .previous{background:transparent url(https://3.bp.blogspot.com/-mGp_iWwvO5Q/UO2VV8nA6TI/AAAAAAAACUI/dSgvO7zqhC8/s1600/pagination.png) no-repeat 0 0;cursor:pointer;display:block;height:30px;position:absolute;top:258px;width:33px;z-index:999}
 #loopedSlider .previous{background-position:-36px -31px;right:44px}
 #loopedSlider .previous:hover{background-position:0 0}
 #loopedSlider .next{background-position:-35px 0;right:10px}
@@ -251,14 +251,14 @@ ul.pagination a:hover,ul.pagination li.active a{border:2px solid #FCA13A}
 /*Abt Social*/
 .abt-social-slide ul li{list-style:none;border-bottom:none;padding:0}
 .abt-social-slide li a{width:59px;height:59px;float:left;text-indent:-99999px;border:solid 1px #111;border-radius:50%;-webkit-transition:All .3s ease-out;-moz-transition:All .3s ease-out;-o-transition:All .3s ease-out;margin:5px 5px 10px;padding:0;}
-.abt-social-slide li a.facebook{background:url(http://4.bp.blogspot.com/-njqMpTvxYbs/UFM2yXm-AnI/AAAAAAAAEFU/yfm_dKxQ2hs/s1600/facebook.png) no-repeat 0 -88px}
-.abt-social-slide li a.facebook:hover{background:url(http://4.bp.blogspot.com/-njqMpTvxYbs/UFM2yXm-AnI/AAAAAAAAEFU/yfm_dKxQ2hs/s1600/facebook.png) no-repeat 0 0}
-.abt-social-slide li a.twitter{background:url(http://2.bp.blogspot.com/-BtalCDk0UGg/UFM206t5yfI/AAAAAAAAEFk/1cwjqImigQo/s1600/twitter-1.png) no-repeat 0 -88px}
-.abt-social-slide li a.twitter:hover{background:url(http://2.bp.blogspot.com/-BtalCDk0UGg/UFM206t5yfI/AAAAAAAAEFk/1cwjqImigQo/s1600/twitter-1.png) no-repeat 0 0}
-.abt-social-slide li a.google-p{background:url(http://1.bp.blogspot.com/-qITbsA3n7_w/UFM2z36eMnI/AAAAAAAAEFc/PK9Cmf7JZd4/s1600/google.png) no-repeat 0 -88px}
-.abt-social-slide li a.google-p:hover{background:url(http://1.bp.blogspot.com/-qITbsA3n7_w/UFM2z36eMnI/AAAAAAAAEFc/PK9Cmf7JZd4/s1600/google.png) no-repeat 0 0}
-.abt-social-slide li a.rss{background:url(http://1.bp.blogspot.com/-xmXWc6_8mxw/UFM21nVC47I/AAAAAAAAEFs/Ydce5M-vkvw/s1600/twitter.png) no-repeat 0 -88px}
-.abt-social-slide li a.rss:hover{background:url(http://1.bp.blogspot.com/-xmXWc6_8mxw/UFM21nVC47I/AAAAAAAAEFs/Ydce5M-vkvw/s1600/twitter.png) no-repeat 0 0}
+.abt-social-slide li a.facebook{background:url(https://4.bp.blogspot.com/-njqMpTvxYbs/UFM2yXm-AnI/AAAAAAAAEFU/yfm_dKxQ2hs/s1600/facebook.png) no-repeat 0 -88px}
+.abt-social-slide li a.facebook:hover{background:url(https://4.bp.blogspot.com/-njqMpTvxYbs/UFM2yXm-AnI/AAAAAAAAEFU/yfm_dKxQ2hs/s1600/facebook.png) no-repeat 0 0}
+.abt-social-slide li a.twitter{background:url(https://2.bp.blogspot.com/-BtalCDk0UGg/UFM206t5yfI/AAAAAAAAEFk/1cwjqImigQo/s1600/twitter-1.png) no-repeat 0 -88px}
+.abt-social-slide li a.twitter:hover{background:url(https://2.bp.blogspot.com/-BtalCDk0UGg/UFM206t5yfI/AAAAAAAAEFk/1cwjqImigQo/s1600/twitter-1.png) no-repeat 0 0}
+.abt-social-slide li a.google-p{background:url(https://1.bp.blogspot.com/-qITbsA3n7_w/UFM2z36eMnI/AAAAAAAAEFc/PK9Cmf7JZd4/s1600/google.png) no-repeat 0 -88px}
+.abt-social-slide li a.google-p:hover{background:url(https://1.bp.blogspot.com/-qITbsA3n7_w/UFM2z36eMnI/AAAAAAAAEFc/PK9Cmf7JZd4/s1600/google.png) no-repeat 0 0}
+.abt-social-slide li a.rss{background:url(https://1.bp.blogspot.com/-xmXWc6_8mxw/UFM21nVC47I/AAAAAAAAEFs/Ydce5M-vkvw/s1600/twitter.png) no-repeat 0 -88px}
+.abt-social-slide li a.rss:hover{background:url(https://1.bp.blogspot.com/-xmXWc6_8mxw/UFM21nVC47I/AAAAAAAAEFs/Ydce5M-vkvw/s1600/twitter.png) no-repeat 0 0}
 
 
 /*ToTop*/
